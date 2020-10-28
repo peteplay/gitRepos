@@ -1,0 +1,19 @@
+{
+  "name": "gitrepos",
+  "version": "1.0.0",
+  "description": "git cypress repository",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "keywords": [
+    "git",
+    "dashboard"
+  ],
+  "author": "Peter",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^5.5.0"
+  }
+}
